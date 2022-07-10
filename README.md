@@ -2,7 +2,7 @@
 
 ## Description
 
-This project shows an example of how the Sega Mega CD can be used to play MOD files via the Sega Mega CD Hardware.  The code is based upon Ami-PlayMOD by Massimiliano Scarano.
+This project shows an example of how the Sega Mega CD can be used to play MOD files.  The code is based upon Ami-PlayMOD by Massimiliano Scarano.
 
 A couple of important pointers:
 * Each sample must be under 128KiB
